@@ -8,7 +8,7 @@ The work also draws on more than a decade of designing and delivering enterprise
 
 That experience shaped a simple premise: agentic tools are only as useful as the systems beneath them. Before people can automate effectively, they need solid foundations for managing tasks, administration, conversations, and knowledge.
 
-These projects, including the TACO Stack, explore those foundations through practical building blocks and system design to help people level up and achieve more through increasingly autonomous ways of working.
+These projects, including the TACO Stack, establish this foundation through practical building blocks and systems designed to help people level up and achieve more through increasingly autonomous ways of working.
 
 **Organization before automation. Life on rails. Exponential alignment.**
 
