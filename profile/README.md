@@ -14,7 +14,7 @@ It's my belief that agentic AI will not deliver for the individuals without the 
 
 They need a connected foundation for managing tasks, administration, chat, and knowledge.
 
-These projects, including the TACO Stack, provide these building blocks and support more increasingly autonomous ways of working.
+These projects, including the TACO Stack, provide these building blocks and support increasingly autonomous ways of working.
 
 **Organization before automation. Life on rails. Exponential alignment.**
 
