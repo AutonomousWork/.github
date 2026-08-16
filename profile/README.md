@@ -2,9 +2,9 @@
 
 Autonomous Work is an independent collection of projects exploring how AI can help people move through life with greater clarity and agency.
 
-This began with systems I built to thrive while managing concurrent mast cell and endocrine disorders. What started as a way to wrangle that uncertainty evolved into a personal "Life OS".
+This began with systems I built to thrive while managing concurrent mast cell and endocrine disorders. 
 
-One that helped me regain capacity and accomplish far more than my circumstances should have allowed.
+What started as a way to wrangle that uncertainty evolved into a personal "Life OS". One that helped me regain capacity and accomplish far more than my circumstances should have allowed.
 
 The work also draws on more than a decade of building enterprise data architectures and leading elite engineering teams. The common thread is complexity. 
 
