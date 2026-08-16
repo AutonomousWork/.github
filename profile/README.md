@@ -10,7 +10,7 @@ The work also draws on more than a decade of building enterprise data architectu
 
 Learning to make it legible, structured, and actionable.
 
-It's my belief that agentic AI will not deliver for the individuals without the coherent systems supporting them.
+It's my belief that agentic AI will not deliver for the individuals that do not have coherent systems supporting them.
 
 They need a connected foundation for managing tasks, administration, chat, and knowledge.
 
