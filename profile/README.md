@@ -16,6 +16,6 @@ They need a connected foundation for managing tasks, administration, chat, and k
 
 These projects, including the TACO Stack, provide these building blocks and support increasingly autonomous ways of working.
 
-**Organization before automation. Life on rails. Exponential alignment.**
+**Organization before automation. Life on rails. Maximum alignment.**
 
 *Personal projects by [Alex Webb](https://www.linkedin.com/in/alexander-v-webb/).*
